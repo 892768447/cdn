@@ -1713,4 +1713,4 @@ module.exports=function(e){var t={};function o(r){if(t[r])return t[r].exports;va
 
 flarum.extensions['irony-google-search']=module.exports;
 
-//# sourceMappingURL=https://pyqt.site/assets/forum-69306ee4.js.map
+//# sourceMappingURL=https://pyqt.site/assets/forum.js.map

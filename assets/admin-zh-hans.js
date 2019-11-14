@@ -81,4 +81,4 @@ moment.locale('zh-hans', {
 });
 ;
 
-//# sourceMappingURL=https://pyqt.site/assets/admin-zh-hans-d38baa77.js.map
+//# sourceMappingURL=https://pyqt.site/assets/admin-zh-hans.js.map

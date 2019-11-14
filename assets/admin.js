@@ -632,4 +632,4 @@ module.exports=function(t){var e={};function r(s){if(e[s])return e[s].exports;va
 
 flarum.extensions['fof-user-directory']=module.exports;
 
-//# sourceMappingURL=https://pyqt.site/assets/admin-44ea08c0.js.map
+//# sourceMappingURL=https://pyqt.site/assets/admin.js.map
